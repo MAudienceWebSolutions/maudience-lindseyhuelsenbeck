@@ -1,0 +1,30 @@
+version 1.2.1
+====================
+- Updated to latest WooCommerce plugin
+- Fixed out dated message from Latest WooCommerce plugin
+
+
+version 1.2
+====================
+	- Modified complete "Theme Customizer".
+
+
+version 1.1.2
+====================
+	- Fixed bug : Disable Overlay Pattern issue fixed from theme customizer.
+
+
+version 1.1.1
+====================
+	- Fixed bug : Footer issue when disable overlay container fixed.
+
+
+version 1.1
+====================
+	- WooCommerce out date file messages issue fixed.
+	- Primary navigation issue fixed.
+
+
+version 1.0
+====================
+	- Initial release

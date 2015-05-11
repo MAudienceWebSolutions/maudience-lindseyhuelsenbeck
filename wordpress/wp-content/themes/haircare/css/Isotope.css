@@ -1,0 +1,111 @@
+/**** Isotope Filtering ****/
+.isotope-ready, .isotope-ready.isotope-item {
+    -webkit-transition-duration: 0.8s;
+       -moz-transition-duration: 0.8s;
+        -ms-transition-duration: 0.8s;
+         -o-transition-duration: 0.8s;
+            transition-duration: 0.8s;
+}
+
+.isotope-ready {
+    -webkit-transition-property: height, width;
+       -moz-transition-property: height, width;
+        -ms-transition-property: height, width;
+         -o-transition-property: height, width;
+            transition-property: height, width;
+}
+
+.isotope-ready.isotope-item {
+      -webkit-transition-property: -webkit-transform, opacity;
+         -moz-transition-property:    -moz-transform, opacity;
+          -ms-transition-property:     -ms-transform, opacity;
+           -o-transition-property:      -o-transform, opacity;
+              transition-property:         transform, opacity;
+}
+/* End: Recommended Isotope styles */
+
+/* disable CSS transitions for containers with infinite scrolling
+------------------------------------------------------*/
+.isotope.infinite-scrolling {
+  -webkit-transition: none;
+     -moz-transition: none;
+      -ms-transition: none;
+       -o-transition: none;
+          transition: none;
+}
+
+
+
+/* Isotope styles
+------------------------------------------------------*/
+.filter_portfolio{
+  position: relative;
+  top: 0;
+  z-index: 1;
+  text-align: right;
+  margin-bottom: 1px;
+ }
+
+#filter ul {
+  list-style: none outside none;
+	position:relative;
+	margin-left:0px!important;
+  margin-bottom: 30px;
+  text-align: left;
+}
+#filter ul li a	{
+    display: inline-block;
+    font-size: 13px;
+    padding: 8px 15px;
+}
+
+.filter ul li {
+    background: none repeat scroll 0 0 rgba(204, 204, 204, 0.1);
+    display: inline-block;
+    margin-right: 1px;
+    padding: 0 !important;
+    text-align: left;
+}
+
+.filter_portfolio .filter .active, #filter ul li a:hover {
+    background: none repeat scroll 0 0 #bf1952;
+    color: #fff;
+}
+
+/*  Portfolio Columns
+------------------------------------------------------*/
+.portfolio_extra{
+	width:100%;
+}
+ul.portfolio_items {
+    margin: 0 !important;
+}
+.fluid_portfolio_wrapper  ul.portfolio_items{
+  width: 100.5%;
+}
+ul.portfolio_items  li, ul.porfolio_items li, #relatedposts li{
+    display:inline-block;
+    float: left;
+    padding: 0 !important;
+    margin-left: 1px!important;
+    margin-bottom:1px!important;
+}
+.portfolio5  li {
+  width:19.8%!important;
+}
+.portfolio4  li, #relatedposts li {
+	width:24.8%;
+  display: inline-block;
+}
+.portfolio3  li {
+	width:33.1%!important;
+}
+
+.portfolio2   li {
+	width:49.8%!important;
+}
+
+.portfolio_sligleimg{
+	position:relative;
+	overflow:hidden;
+}

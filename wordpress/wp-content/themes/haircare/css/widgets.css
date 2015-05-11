@@ -1,0 +1,238 @@
+/* Widget Container
+----------------------------------------------------------------------------------------------------*/
+.widget_container{
+    height: auto;
+    margin-bottom: 40px;
+    overflow: hidden;
+    text-align: left;
+	
+}
+#sidebar .widget_container{
+	width:100%;
+}
+.right_sidebar .page_sidebar {
+    padding-left: 0px;
+    position: relative;
+    border-left: 0px solid rgba(127, 127, 127, 0.3);
+}
+.left_sidebar .page_sidebar {
+    padding-right: 0px;
+    position: relative;
+     background-position: right center;
+     border-right: 0px solid rgba(127, 127, 127, 0.3);
+}
+.textwidget p:last-child {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.widget_title {
+    display: table;
+    margin-bottom: 25px;
+}
+#sidebar h3{
+   border-bottom: 0px solid rgba(127, 127, 127, 0.3)!important;
+    color: #ffffff;
+    padding-bottom: 15px;
+    position: relative;
+    margin-bottom: 25px;
+}
+
+#sidebar h3:after {
+    background: none repeat scroll 0 0 #009900;
+    bottom: -3px;
+    content: "";
+    display: block;
+    height: 3px;
+    position: absolute;
+    left: 0;
+    width: 50px;
+}
+
+#sidebar .custom_title {
+    margin-bottom: 0 !important;
+}
+
+/* sidebar calander widget styles
+----------------------------------------------------------------------------------------------------*/
+#sidebar .widget_calendar table{
+  width: 100%;
+}
+#calendar_wrap{
+
+}
+#sidebar .widget_calendar table caption{
+    background-color: #F54325;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 12px 0;
+    text-align: center;
+}
+.cal-blog{
+  background-color: #F54325;
+}
+
+#wp-calendar caption {
+    background-color: rgba(204, 204, 204, 0.2);
+}
+#sidebar .widget_calendar table td{
+  padding: 8px 0;
+}
+#sidebar .widget_calendar table td a, #sidebar .widget_calendar table td a:visited{
+
+}
+#sidebar .widget_calendar table td a:hover{
+	color:#000;
+	text-decoration:none;
+}
+#sidebar .widget_calendar table th{
+	background-color:#dedede;
+	padding:5px;
+}
+.widget_container em{
+   display: block;
+    padding-bottom: 5px;
+}
+/* sidebar menu pages
+----------------------------------------------------------------------------------------------------*/
+.widget_pages ul.children{
+margin-left:20px;
+}
+.widget_pages ul.children li:first-child {
+	border-top: 1px solid #E4DFD6;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+                 
+/*  Globle #sidebar widget style
+---------------------------------------------------------------------------------------------------*/
+.widget_categoryposts ul li a, .widget_recent_comments ul li a,
+.widget_taxpost ul li a, .widget_cat_post_testimonial ul li a,
+.widget_popularposts ul li a, .widget_cat_post_news ul li a, .widget_portfolio_gallery ul li a, ul#widget_sudo_slider li, .widget_container #sudo_slider_wrapper ul li{
+  background: none!important;
+  padding-left: 0!important;
+
+}
+
+.widget_container ul {
+    margin-left: 0 !important;
+}
+
+.page_sidebar .widget_popularposts ul li, .widget_recentposts ul li{
+  margin-bottom:20px!important;
+}
+
+.widget_container ul li{
+    background-image: url("../images/list_arrow.png");
+     background-position: 0 13px;
+    background-repeat: no-repeat;
+    border-bottom: 1px dotted rgba(127, 127, 127, 0.3);
+    display: block;
+    margin-bottom: 0;
+    padding-bottom: 8px;
+    padding-left: 25px;
+    padding-top: 8px;
+    width: 93%;
+}
+
+.widget_container ul li:first-child {
+    background-position: 0 5px;
+    padding-top: 0;
+}
+#sidebar .widget_container .recent_blog_post li, footer .widget_container .recent_blog_post li{
+   border-bottom: 1px dotted rgba(127, 127, 127, 0.3);
+    clear: both;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+#sidebar .widget_container .recent_blog_post li:last-child, footer .widget_container .recent_blog_post li:last-child {
+    border-bottom: 0 none;
+}
+
+.widget_container:last-child,
+.widget_container ul, .widget_container ul li:last-child, .widget_categoryposts li:last-child
+{
+	margin-bottom:0px!important;
+	border-bottom: 0 none;
+	padding-bottom:0;
+}
+.widget_taxpost li a img{
+	float:left;
+	display:block;
+	margin-right:20px;
+	margin-bottom:4px;
+}
+
+.taxpost_content{
+	display:block;
+	overflow:hidden;
+}
+.textwidget p{
+  margin-bottom:0px;
+}
+.footer_widgets_column  .textwidget{
+  margin-bottom:30px;
+}
+
+/* Tag Cloud 
+------------------------------------------------------*/
+.widget_tag_cloud .tagcloud a, .tagcloud a {
+	  background-color: rgba(127, 127, 127, 0.2);
+    display: block;
+    float: left;
+    font-size: 14px !important;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    overflow: hidden;
+    padding:4px 12px;
+}
+#sidebar  .tagcloud a{
+	border: 1px solid rgba(127,127,127,.3);
+  border-radius: 3px;
+}
+#sidebar .tagcloud a:hover{
+	color:#fff;
+  background-color: #bf1956;
+}
+.tagcloud{
+	float: left;
+   }
+.widget_portfolio_gallery ul li{
+	width:70px;
+	height:70px;
+	display:inline;
+	border:none!important;
+	margin:0px!important;
+	padding:0px!important;
+}
+.widget_portfolio_gallery ul li a{
+	display: inline-block;
+	float:left;
+	width:70px;
+	height:70px;
+	margin-bottom:10px;
+	margin-right:10px;
+	
+}
+/* Sidebar Custom Menu */
+#sidebar .sub-menu{
+	border-top: 1px solid rgba(127, 127, 127, 0.1) !important;
+    margin-left: 14px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+#sidebar > ul.menu > li:last-child {
+border-bottom:0px solid rgba(127, 127, 127, 0.1) !important;
+}
+#sidebar ul.menu {
+	width:100%;
+}
+#sidebar .dropcap_bg{
+
+    float: left;
+    margin-bottom: 15px;
+    margin-right: 15px;
+}
+#sidebar .description{
+  text-align: left;
+}

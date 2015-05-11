@@ -1,0 +1,204 @@
+.single_img ul li img{
+    opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+}
+.single_img ul li img:hover{
+ opacity:0.8; 
+}
+.single_img.project_information span {
+    font-size: 15px;
+    margin-right: 15px;
+}
+.project_information strong {
+    font-size: 15px;
+}
+.portfolio_aside p{
+    padding-bottom: 35px;
+}
+.portfolio_aside p:last-child {
+    padding-bottom: 0;
+}
+/* Social Sharing */
+.social_saring_icons{
+    margin-bottom: 35px;
+}
+.social_saring_icons a{
+    background-color: #333;
+    height: 20px;
+    width: 20px;
+    padding: 10px;
+    color:#009900;
+    margin-right: 6px;
+    border-radius: 100%;
+    display: inline-block;
+    text-align: center;
+    line-height: 20px;
+}
+.social_saring_icons a:hover{
+    background-color: #e7e7e7;
+}
+.meta-nav-prev {
+    border: 2px solid rgba(127,127,127,.3);
+	float:left;
+	background-image: url("../images/prev.png");
+	background-position: center center;
+	background-repeat: no-repeat;
+    height: 20px;
+    padding:7px;
+    width: 20px;
+    border-radius: 100%;
+}
+.meta-nav-next{
+       border:2px solid rgba(127,127,127,.3);
+    background-image: url("../images/next.png");
+    background-position:center;
+    background-repeat: no-repeat;
+    float: right;
+    height: 20px;
+    padding:7px;
+    width: 20px;
+    border-radius: 100%;
+ }
+.meta-nav-next:hover, .meta-nav-prev:hover{
+	opacity:.7
+}
+#singlepage_nav{
+    display: block;
+    float: right;
+    overflow: hidden;
+    width: 80px;
+    z-index: 99;
+}
+.fullwidth.portfolio_fullwidth.portfolio_aside {
+    margin:10px auto 0px;
+    float: inherit;
+}
+
+.fullwidth.portfolio_fullwidth.portfolio_aside > span {
+    margin-right: 15px;
+}
+.single_img ul, ul.porfolio_items {
+    list-style:none!important;
+    margin-left:0px!important;
+    z-index: 0;
+    margin-bottom: 0!important;
+}
+.single_img {
+    margin-bottom: 30px;
+}
+
+.grid_gallery.isotope, .isotope_gallery.isotope{
+    width: 100.4% !important;
+}
+.single_img .isotope_gallery  li, .single_img .grid_gallery li{
+	margin-right:1px!important;
+	margin-bottom:1px!important;
+	float:left;
+	display:inline-block;
+}
+#mid_container_wrapper .single_img li {
+    padding-bottom:0px !important;
+}
+.listimg li{
+	margin-bottom:1px;
+}
+.single_img img{
+	display:block;
+}
+.isotope_gallery li, .single_img .grid_gallery li{
+	width:24.8%;
+}
+.single_img  ul.isotope_gallery{
+    margin:0px!important;
+}
+
+.bx-wrapper .slider li{
+	min-height:150px;
+}
+#mid_container_wrapper .single_img li{
+   
+}
+/* Related Post */
+#relatedposts {
+    display: block;
+    margin-top: 30px;
+}
+#relatedposts ul{
+	margin-top:25px;
+}
+#relatedposts ul li{
+    display: block!important;
+}
+.relatedpost_title{
+    display: table;
+    margin-bottom: 30px;
+}
+
+.relatedpost_title > h2 {
+    border-bottom: 0px solid rgba(204, 204, 204, 0.5)!important;
+    display: block;
+    padding-bottom: 15px;
+    position: relative;
+    margin-bottom: 0;
+}
+.relatedpost_title > h2:after {
+    background-color: #009900;
+    bottom: -3px;
+    content: "";
+    display: block;
+    height: 5px;
+    position: absolute;
+    left: 0;
+    width: 50px;
+}
+
+.custom_hr {
+    background-color: rgba(127, 127, 127, 0.3);
+    display: block;
+    height: 1px;
+    width: 100%;
+}
+#related_slider .portfolio-container {
+    margin: 0 0.2%!important;
+}    
+#related_slider  .owl-pagination{
+    display: none;
+}
+.portfolio-container h4 {
+    bottom: 0;
+    margin: 0;
+    padding-bottom: 5px;
+    text-align: center;
+    color:#fff;
+}
+.portfolio_item_content p{
+    padding-bottom: 15px;
+}
+.link_to_image{
+    background-image: url(../images/image.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    position:absolute;
+    height: 35px;
+    position: absolute;
+    width:35px;
+    z-index: 100;
+    margin-left:-20px;
+}
+.link_to_post{
+    background-image: url(../images/link_post.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    position:absolute;
+    height: 35px;
+    position: absolute;
+    width:35px;
+    z-index: 100;
+    margin-right:-20px;
+}
+/* Single page */
+.blog_single_slider, .bxslider_post_single{
+    visibility: hidden;
+}

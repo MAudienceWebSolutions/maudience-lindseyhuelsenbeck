@@ -1,0 +1,16 @@
+version 1.2
+====================
+	
+	- Added New Feature : Modified widget name from "Haircare-Gallery Images widget" into
+         "Haircare- Images Gallery widget".
+
+	- Lot of enhancement has been done.
+
+version 1.1
+====================
+	
+	- Added New Feature : Added Haircare-Gallery Images widget.
+
+version 1.0
+====================
+	- Initial release

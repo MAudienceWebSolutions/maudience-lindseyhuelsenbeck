@@ -1,0 +1,985 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: haircare\n"
+"POT-Creation-Date: 2014-07-19 18:22+0530\n"
+"PO-Revision-Date: 2014-07-19 18:22+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../kaya_widgets.php:16
+msgid "Hair Care - Recent Blog Posts"
+msgstr ""
+
+#: ../kaya_widgets.php:17
+msgid "Displays Recent post items from posts categories."
+msgstr ""
+
+#: ../kaya_widgets.php:24 ../kaya_widgets.php:127 ../kaya_widgets.php:264
+#: ../kaya_widgets.php:320
+msgid "Add Title"
+msgstr ""
+
+#: ../kaya_widgets.php:31 ../kaya_widgets.php:134 ../kaya_widgets.php:1142
+#: ../kaya_widgets.php:1316
+msgid "Read More"
+msgstr ""
+
+#: ../kaya_widgets.php:104 ../kaya_widgets.php:3435
+msgid "0 Comments"
+msgstr ""
+
+#: ../kaya_widgets.php:104 ../kaya_widgets.php:3435
+msgid "1 Comment"
+msgstr ""
+
+#: ../kaya_widgets.php:104 ../kaya_widgets.php:3435
+msgid "% Comments"
+msgstr ""
+
+#: ../kaya_widgets.php:148 ../kaya_widgets.php:359 ../kaya_widgets.php:466
+#: ../kaya_widgets.php:1046 ../kaya_widgets.php:1343 ../kaya_widgets.php:1671
+#: ../kaya_widgets.php:3069 ../kaya_widgets.php:3212 ../kaya_widgets.php:3612
+msgid "Title"
+msgstr ""
+
+#: ../kaya_widgets.php:152 ../kaya_widgets.php:363 ../kaya_widgets.php:470
+msgid "Select Heading Style"
+msgstr ""
+
+#: ../kaya_widgets.php:160 ../kaya_widgets.php:371 ../kaya_widgets.php:478
+#: ../kaya_widgets.php:1052 ../kaya_widgets.php:1365 ../kaya_widgets.php:1676
+#: ../kaya_widgets.php:3073 ../kaya_widgets.php:3216 ../kaya_widgets.php:3618
+msgid "Title Color"
+msgstr ""
+
+#: ../kaya_widgets.php:164 ../kaya_widgets.php:169 ../kaya_widgets.php:375
+#: ../kaya_widgets.php:379 ../kaya_widgets.php:482 ../kaya_widgets.php:486
+#: ../kaya_widgets.php:1064 ../kaya_widgets.php:1377 ../kaya_widgets.php:1688
+#: ../kaya_widgets.php:2092
+msgid "Description Color"
+msgstr ""
+
+#: ../kaya_widgets.php:174 ../kaya_widgets.php:384 ../kaya_widgets.php:491
+#: ../kaya_widgets.php:1383 ../kaya_widgets.php:3623
+msgid "Title Position"
+msgstr ""
+
+#: ../kaya_widgets.php:189
+msgid "Select Blog Category IDs"
+msgstr ""
+
+#: ../kaya_widgets.php:192 ../kaya_widgets.php:742 ../kaya_widgets.php:746
+#: ../kaya_widgets.php:1400 ../kaya_widgets.php:2300 ../kaya_widgets.php:2892
+#: ../kaya_widgets.php:3487
+msgid "Available Categories and IDs : "
+msgstr ""
+
+#: ../kaya_widgets.php:193 ../kaya_widgets.php:747 ../kaya_widgets.php:749
+#: ../kaya_widgets.php:1401 ../kaya_widgets.php:2301 ../kaya_widgets.php:2893
+#: ../kaya_widgets.php:3488
+msgid "Note:"
+msgstr ""
+
+#: ../kaya_widgets.php:193 ../kaya_widgets.php:747 ../kaya_widgets.php:749
+#: ../kaya_widgets.php:1401 ../kaya_widgets.php:2301 ../kaya_widgets.php:2893
+#: ../kaya_widgets.php:3488
+msgid "Separate IDs with commas only"
+msgstr ""
+
+#: ../kaya_widgets.php:197
+msgid "Display Number of Posts"
+msgstr ""
+
+#: ../kaya_widgets.php:203
+msgid "Posts Content Limit"
+msgstr ""
+
+#: ../kaya_widgets.php:209
+msgid "Disable Date"
+msgstr ""
+
+#: ../kaya_widgets.php:215
+msgid "Disable Description"
+msgstr ""
+
+#: ../kaya_widgets.php:221
+msgid "Disable Comment"
+msgstr ""
+
+#: ../kaya_widgets.php:227 ../kaya_widgets.php:3520
+msgid "Posts Title Color"
+msgstr ""
+
+#: ../kaya_widgets.php:233
+msgid "Posts Date Color"
+msgstr ""
+
+#: ../kaya_widgets.php:239
+msgid "Posts Description Color"
+msgstr ""
+
+#: ../kaya_widgets.php:245
+msgid "Posts Comment Color"
+msgstr ""
+
+#: ../kaya_widgets.php:258
+msgid "Hair Care - List Items"
+msgstr ""
+
+#: ../kaya_widgets.php:259
+msgid "Add list items with custom icon."
+msgstr ""
+
+#: ../kaya_widgets.php:335
+msgid "Upload List Image"
+msgstr ""
+
+#: ../kaya_widgets.php:400
+msgid "List Box"
+msgstr ""
+
+#: ../kaya_widgets.php:412
+msgid "Hair Care - Custom Title"
+msgstr ""
+
+#: ../kaya_widgets.php:413
+msgid "Use this widget to add custom title to the blocks."
+msgstr ""
+
+#: ../kaya_widgets.php:419 ../kaya_widgets.php:457
+msgid "Add Custom Title"
+msgstr ""
+
+#: ../kaya_widgets.php:517
+msgid "Hair Care - Vertical Space"
+msgstr ""
+
+#: ../kaya_widgets.php:519
+msgid "Use this widget to add vertical height in between block rows."
+msgstr ""
+
+#: ../kaya_widgets.php:546
+msgid "Height"
+msgstr ""
+
+#: ../kaya_widgets.php:561
+msgid "Hair Care - Slider"
+msgstr ""
+
+#: ../kaya_widgets.php:562
+msgid "Displays slider from Portfolio & Posts categories."
+msgstr ""
+
+#: ../kaya_widgets.php:732
+msgid "Select Slider Category : "
+msgstr ""
+
+#: ../kaya_widgets.php:734
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../kaya_widgets.php:735
+msgid "Posts Category"
+msgstr ""
+
+#: ../kaya_widgets.php:740 ../kaya_widgets.php:1398
+msgid "Enter Portfolio Category IDs : "
+msgstr ""
+
+#: ../kaya_widgets.php:744
+msgid "Enter Post Category IDs : "
+msgstr ""
+
+#: ../kaya_widgets.php:754 ../kaya_widgets.php:1427
+msgid "Auto Play"
+msgstr ""
+
+#: ../kaya_widgets.php:767
+msgid "Slide Transition Effect"
+msgstr ""
+
+#: ../kaya_widgets.php:783
+msgid "Slide Easing Effect"
+msgstr ""
+
+#: ../kaya_widgets.php:787
+msgid ""
+"Enter easing effect Ex:linear, swing,easeOutElastic <br> for more transition "
+"effects  <a href='http://jqueryui.com/resources/demos/effect/easing.html' "
+"target='_blank'>  click here   </a>"
+msgstr ""
+
+#: ../kaya_widgets.php:790
+msgid "Slide Pause Time"
+msgstr ""
+
+#: ../kaya_widgets.php:794
+msgid "The amount of time (in ms) between each auto transition , Ex: 4000"
+msgstr ""
+
+#: ../kaya_widgets.php:799
+msgid "Auto Height"
+msgstr ""
+
+#: ../kaya_widgets.php:812
+msgid "Slider Width (px)"
+msgstr ""
+
+#: ../kaya_widgets.php:818
+msgid "Slider Height (px)"
+msgstr ""
+
+#: ../kaya_widgets.php:822
+msgid "Ex: 400<br /> Note: It works only when auto height is false"
+msgstr ""
+
+#: ../kaya_widgets.php:826 ../kaya_widgets.php:2323
+msgid "Limit"
+msgstr ""
+
+#: ../kaya_widgets.php:831
+msgid "Disable Slide Title"
+msgstr ""
+
+#: ../kaya_widgets.php:850
+msgid "Hair Care - Dropcap"
+msgstr ""
+
+#: ../kaya_widgets.php:852
+msgid "Use this widget to create drop cap with text or Font Awesome icons."
+msgstr ""
+
+#: ../kaya_widgets.php:863 ../kaya_widgets.php:969
+msgid "Dropcap Title"
+msgstr ""
+
+#: ../kaya_widgets.php:993
+msgid "Awesome Icon Name"
+msgstr ""
+
+#: ../kaya_widgets.php:997
+msgid "Ex: fa-home, for More Awesome icons click"
+msgstr ""
+
+#: ../kaya_widgets.php:1001
+msgid "Enter Dropcap Text"
+msgstr ""
+
+#: ../kaya_widgets.php:1005
+msgid ""
+"Ex: A  <stong> Note: </strong>It Works only when above icon name field is "
+"empty "
+msgstr ""
+
+#: ../kaya_widgets.php:1009
+msgid "Dropcap Size"
+msgstr ""
+
+#: ../kaya_widgets.php:1019
+msgid "Dropcap Background Color"
+msgstr ""
+
+#: ../kaya_widgets.php:1024
+msgid "Dropcap Text Color"
+msgstr ""
+
+#: ../kaya_widgets.php:1028
+msgid "Dropcap Border Width ( px )"
+msgstr ""
+
+#: ../kaya_widgets.php:1032
+msgid "Dropcap Border Color"
+msgstr ""
+
+#: ../kaya_widgets.php:1038
+msgid "Dropcap Border Radius ( % )"
+msgstr ""
+
+#: ../kaya_widgets.php:1042
+msgid "Ex:10,20 <stont> Note: </stong>It applies only percentage(%)"
+msgstr ""
+
+#: ../kaya_widgets.php:1058 ../kaya_widgets.php:1371 ../kaya_widgets.php:1682
+#: ../kaya_widgets.php:2088
+msgid "Description"
+msgstr ""
+
+#: ../kaya_widgets.php:1070 ../kaya_widgets.php:3512
+msgid "Readmore Button Text"
+msgstr ""
+
+#: ../kaya_widgets.php:1074
+msgid "<stong>Note: </strong>Keep it empty to not display the readmore button "
+msgstr ""
+
+#: ../kaya_widgets.php:1078
+msgid "Readmore Button Link"
+msgstr ""
+
+#: ../kaya_widgets.php:1082
+msgid "Ex:http://www.google.com"
+msgstr ""
+
+#: ../kaya_widgets.php:1086
+msgid "Dropcap Position"
+msgstr ""
+
+#: ../kaya_widgets.php:1102
+msgid "Text Wrapping"
+msgstr ""
+
+#: ../kaya_widgets.php:1127
+msgid "Hair Care - Draggable Slider"
+msgstr ""
+
+#: ../kaya_widgets.php:1129
+msgid "Displays portfolio items as draggable slider."
+msgstr ""
+
+#: ../kaya_widgets.php:1138 ../kaya_widgets.php:1313
+msgid "Draggable Slider Title"
+msgstr ""
+
+#: ../kaya_widgets.php:1349
+msgid "Title Heading Style"
+msgstr ""
+
+#: ../kaya_widgets.php:1405
+msgid "Portfolio Slide Items"
+msgstr ""
+
+#: ../kaya_widgets.php:1440 ../kaya_widgets.php:2306 ../kaya_widgets.php:2927
+#: ../kaya_widgets.php:3491
+msgid "Orderby"
+msgstr ""
+
+#: ../kaya_widgets.php:1462 ../kaya_widgets.php:2316 ../kaya_widgets.php:2949
+#: ../kaya_widgets.php:3501
+msgid "Order"
+msgstr ""
+
+#: ../kaya_widgets.php:1475
+msgid "Image Height"
+msgstr ""
+
+#: ../kaya_widgets.php:1480
+msgid "Post Thumbnail Hover Color"
+msgstr ""
+
+#: ../kaya_widgets.php:1484 ../kaya_widgets.php:2969
+msgid "Post Thumbnail Hover Title Color"
+msgstr ""
+
+#: ../kaya_widgets.php:1488
+msgid "Enable Lightbox"
+msgstr ""
+
+#: ../kaya_widgets.php:1492
+msgid "Slider Items Limits"
+msgstr ""
+
+#: ../kaya_widgets.php:1496
+msgid "Disable Slide Content"
+msgstr ""
+
+#: ../kaya_widgets.php:1501 ../kaya_widgets.php:2978
+msgid "Popular Posts"
+msgstr ""
+
+#: ../kaya_widgets.php:1520
+msgid "Hair Care - Image Box"
+msgstr ""
+
+#: ../kaya_widgets.php:1521
+msgid "Displays image box with title and description."
+msgstr ""
+
+#: ../kaya_widgets.php:1530 ../kaya_widgets.php:1594
+msgid "Enter Title Here"
+msgstr ""
+
+#: ../kaya_widgets.php:1532 ../kaya_widgets.php:1596
+msgid "Enter Description Here"
+msgstr ""
+
+#: ../kaya_widgets.php:1641
+msgid "Image Width (px)"
+msgstr ""
+
+#: ../kaya_widgets.php:1647
+msgid "Image Height (px)"
+msgstr ""
+
+#: ../kaya_widgets.php:1653 ../kaya_widgets.php:2082
+msgid "Image Link"
+msgstr ""
+
+#: ../kaya_widgets.php:1659 ../kaya_widgets.php:2438
+msgid "Price"
+msgstr ""
+
+#: ../kaya_widgets.php:1663
+msgid "Price Background Color"
+msgstr ""
+
+#: ../kaya_widgets.php:1667
+msgid "Price Color"
+msgstr ""
+
+#: ../kaya_widgets.php:1694
+msgid "Image Position"
+msgstr ""
+
+#: ../kaya_widgets.php:1727
+msgid "Hair Care - Flickr "
+msgstr ""
+
+#: ../kaya_widgets.php:1729
+msgid "Displays flickr images."
+msgstr ""
+
+#: ../kaya_widgets.php:1752
+msgid "Flickr"
+msgstr ""
+
+#: ../kaya_widgets.php:1789
+msgid "Flickr Name"
+msgstr ""
+
+#: ../kaya_widgets.php:1796
+msgid "Flickr ID - "
+msgstr ""
+
+#: ../kaya_widgets.php:1803
+msgid "Number of photos:"
+msgstr ""
+
+#: ../kaya_widgets.php:1817
+msgid "Hair Care - Button "
+msgstr ""
+
+#: ../kaya_widgets.php:1818
+msgid "Displays Readmore Butoom where ever you want."
+msgstr ""
+
+#: ../kaya_widgets.php:1874
+msgid "Button Text"
+msgstr ""
+
+#: ../kaya_widgets.php:1880
+msgid "Destination URL"
+msgstr ""
+
+#: ../kaya_widgets.php:1886
+msgid "Button BG Color"
+msgstr ""
+
+#: ../kaya_widgets.php:1892
+msgid "Button Text Color"
+msgstr ""
+
+#: ../kaya_widgets.php:1898
+msgid "Button Hover BG Color"
+msgstr ""
+
+#: ../kaya_widgets.php:1904
+msgid "Button Hover Text Color"
+msgstr ""
+
+#: ../kaya_widgets.php:1909
+msgid "Button Alignment"
+msgstr ""
+
+#: ../kaya_widgets.php:1917
+msgid "Open In New Window"
+msgstr ""
+
+#: ../kaya_widgets.php:1927
+msgid "Hair Care - Info Boxes"
+msgstr ""
+
+#: ../kaya_widgets.php:1929
+msgid "Info boxes."
+msgstr ""
+
+#: ../kaya_widgets.php:1952
+msgid "Info Box Type"
+msgstr ""
+
+#: ../kaya_widgets.php:1965
+msgid "Info Box Content"
+msgstr ""
+
+#: ../kaya_widgets.php:1975
+msgid "Hair Care - Testimonial"
+msgstr ""
+
+#: ../kaya_widgets.php:1976
+msgid "Displays testimonial boxes."
+msgstr ""
+
+#: ../kaya_widgets.php:1981 ../kaya_widgets.php:2022 ../kaya_widgets.php:2039
+msgid "Client Name"
+msgstr ""
+
+#: ../kaya_widgets.php:1983 ../kaya_widgets.php:2024
+msgid "Add Your Testimonial description"
+msgstr ""
+
+#: ../kaya_widgets.php:2035
+msgid "Content Box Background Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2043
+msgid "Client Name Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2047
+msgid "Designation"
+msgstr ""
+
+#: ../kaya_widgets.php:2052 ../kaya_widgets.php:3232
+msgid "Designation Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2058
+msgid "Upload Testimonial Image"
+msgstr ""
+
+#: ../kaya_widgets.php:2084 ../kaya_widgets.php:2460
+msgid "Ex: http://www.google.com"
+msgstr ""
+
+#: ../kaya_widgets.php:2105
+msgid "Add Toggle tabs and Accordion widget."
+msgstr ""
+
+#: ../kaya_widgets.php:2276
+msgid "Select Type"
+msgstr ""
+
+#: ../kaya_widgets.php:2287
+msgid "Select Tabs Type"
+msgstr ""
+
+#: ../kaya_widgets.php:2298
+msgid "Enter Category IDs : "
+msgstr ""
+
+#: ../kaya_widgets.php:2327
+msgid "Tabs Bg Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2331
+msgid "Tabs Title Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2335
+msgid "Tabs Content BG Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2339
+msgid "Tabs Content Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2343
+msgid "Tabs Content Link Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2347
+msgid "Tabs Border Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2358
+msgid "Hair Care - Pricing Table"
+msgstr ""
+
+#: ../kaya_widgets.php:2359
+msgid "Displays Pricing Table."
+msgstr ""
+
+#: ../kaya_widgets.php:2433
+msgid "Pricing Title"
+msgstr ""
+
+#: ../kaya_widgets.php:2435
+msgid "Ex:Basic, Premium, Standard"
+msgstr ""
+
+#: ../kaya_widgets.php:2440
+msgid "Ex:$45, $61.5"
+msgstr ""
+
+#: ../kaya_widgets.php:2443
+msgid "Price Description"
+msgstr ""
+
+#: ../kaya_widgets.php:2445
+msgid "Ex:Per Month, Per Year"
+msgstr ""
+
+#: ../kaya_widgets.php:2448
+msgid "Pricing Content"
+msgstr ""
+
+#: ../kaya_widgets.php:2450
+msgid "Note: Pricing content add ul li only"
+msgstr ""
+
+#: ../kaya_widgets.php:2453
+msgid "Signup Button Text"
+msgstr ""
+
+#: ../kaya_widgets.php:2455
+msgid "Ex: Signup"
+msgstr ""
+
+#: ../kaya_widgets.php:2458
+msgid "Signup Button Link"
+msgstr ""
+
+#: ../kaya_widgets.php:2463
+msgid "Pricing Box BG Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2465
+msgid "Ex: #FF9D01"
+msgstr ""
+
+#: ../kaya_widgets.php:2468
+msgid "Pricing Box Text Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2470
+msgid "Ex: #ffffff"
+msgstr ""
+
+#: ../kaya_widgets.php:2473
+msgid "Price Content Odd BG Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2475
+msgid "Ex: #F8F7DC "
+msgstr ""
+
+#: ../kaya_widgets.php:2478
+msgid "Price Content Odd Text Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2480 ../kaya_widgets.php:2490
+msgid "Ex: #333333 "
+msgstr ""
+
+#: ../kaya_widgets.php:2483
+msgid "Price Content Even BG Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2485
+msgid "Ex: #ffffff "
+msgstr ""
+
+#: ../kaya_widgets.php:2488
+msgid "Price Content Even Text Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2500
+msgid "Hair Care - Twitter"
+msgstr ""
+
+#: ../kaya_widgets.php:2501
+msgid "Dsiplay latest tweets"
+msgstr ""
+
+#: ../kaya_widgets.php:2625
+msgid "Twitter Title:"
+msgstr ""
+
+#: ../kaya_widgets.php:2630
+msgid "Consumer Key:"
+msgstr ""
+
+#: ../kaya_widgets.php:2635
+msgid "Consumer Secret:"
+msgstr ""
+
+#: ../kaya_widgets.php:2640
+msgid "Access Token:"
+msgstr ""
+
+#: ../kaya_widgets.php:2645
+msgid "Access Token Secret:"
+msgstr ""
+
+#: ../kaya_widgets.php:2649
+msgid "Twitter User Name:"
+msgstr ""
+
+#: ../kaya_widgets.php:2652
+msgid "Number of Tweets:"
+msgstr ""
+
+#: ../kaya_widgets.php:2669
+msgid "Hair Care - Portfolio"
+msgstr ""
+
+#: ../kaya_widgets.php:2754
+msgid "All"
+msgstr ""
+
+#: ../kaya_widgets.php:2881
+msgid "Select Display style"
+msgstr ""
+
+#: ../kaya_widgets.php:2889
+msgid "Select Portfolio Category IDs : "
+msgstr ""
+
+#: ../kaya_widgets.php:2898
+msgid "Portfolio Filter Tabs"
+msgstr ""
+
+#: ../kaya_widgets.php:2911
+msgid "Select Columns"
+msgstr ""
+
+#: ../kaya_widgets.php:2961
+msgid "Post Thumbnail Height"
+msgstr ""
+
+#: ../kaya_widgets.php:2965
+msgid "Post Thumbnail Hover Background Color"
+msgstr ""
+
+#: ../kaya_widgets.php:2973
+msgid "Full Width Portfolio"
+msgstr ""
+
+#: ../kaya_widgets.php:2983
+msgid "Disable Post Title"
+msgstr ""
+
+#: ../kaya_widgets.php:2987
+msgid "Enable Pagination"
+msgstr ""
+
+#: ../kaya_widgets.php:2991
+msgid "Image Lightbox"
+msgstr ""
+
+#: ../kaya_widgets.php:2995
+msgid "Display Number of Images"
+msgstr ""
+
+#: ../kaya_widgets.php:3006
+msgid "Hair Care - Circular Skillset"
+msgstr ""
+
+#: ../kaya_widgets.php:3007
+msgid "Use this widget to display circular Skillset."
+msgstr ""
+
+#: ../kaya_widgets.php:3018 ../kaya_widgets.php:3061
+msgid "none"
+msgstr ""
+
+#: ../kaya_widgets.php:3077
+msgid "Skillset Width"
+msgstr ""
+
+#: ../kaya_widgets.php:3081
+msgid "Circular Bar Color"
+msgstr ""
+
+#: ../kaya_widgets.php:3085
+msgid "Track Color"
+msgstr ""
+
+#: ../kaya_widgets.php:3089
+msgid "Circular Chart Icon"
+msgstr ""
+
+#: ../kaya_widgets.php:3092
+msgid "Ex: fa-camera, for More Awesome icons click"
+msgstr ""
+
+#: ../kaya_widgets.php:3094
+msgid "Circular Chart Icon Color Color"
+msgstr ""
+
+#: ../kaya_widgets.php:3098
+msgid "Circular Chart Description"
+msgstr ""
+
+#: ../kaya_widgets.php:3102
+msgid "Content Color"
+msgstr ""
+
+#: ../kaya_widgets.php:3111
+msgid "Hair Care - Team"
+msgstr ""
+
+#: ../kaya_widgets.php:3112
+msgid "Use this widget to add team blocks."
+msgstr ""
+
+#: ../kaya_widgets.php:3118 ../kaya_widgets.php:3169
+msgid "Add Team Title"
+msgstr ""
+
+#: ../kaya_widgets.php:3188
+msgid "Upload Image"
+msgstr ""
+
+#: ../kaya_widgets.php:3220
+msgid "Title Link"
+msgstr ""
+
+#: ../kaya_widgets.php:3224
+msgid "Team Content Background Color"
+msgstr ""
+
+#: ../kaya_widgets.php:3228
+msgid "Team Designation"
+msgstr ""
+
+#: ../kaya_widgets.php:3236
+msgid "Team Social Icons"
+msgstr ""
+
+#: ../kaya_widgets.php:3248
+msgid "Hair Care - Skillbar"
+msgstr ""
+
+#: ../kaya_widgets.php:3249
+msgid "Use this widget to add bar type skills."
+msgstr ""
+
+#: ../kaya_widgets.php:3256 ../kaya_widgets.php:3275
+msgid "PHP"
+msgstr ""
+
+#: ../kaya_widgets.php:3281
+msgid "Skillbar Title"
+msgstr ""
+
+#: ../kaya_widgets.php:3285
+msgid "Skillbar Title Color"
+msgstr ""
+
+#: ../kaya_widgets.php:3289
+msgid "Skillbar Width"
+msgstr ""
+
+#: ../kaya_widgets.php:3293
+msgid "Skillbar Color"
+msgstr ""
+
+#: ../kaya_widgets.php:3306
+msgid "Hair Care - Contact Form"
+msgstr ""
+
+#: ../kaya_widgets.php:3307
+msgid "Add contact form widget."
+msgstr ""
+
+#: ../kaya_widgets.php:3322
+msgid "Name"
+msgstr ""
+
+#: ../kaya_widgets.php:3323
+msgid "Email"
+msgstr ""
+
+#: ../kaya_widgets.php:3324
+msgid "Subject"
+msgstr ""
+
+#: ../kaya_widgets.php:3325
+msgid "Your Message"
+msgstr ""
+
+#: ../kaya_widgets.php:3343
+msgid "Email Id To Receive Emails"
+msgstr ""
+
+#: ../kaya_widgets.php:3347
+msgid "Submit Button Text"
+msgstr ""
+
+#: ../kaya_widgets.php:3351
+msgid "Clear Button Text"
+msgstr ""
+
+#: ../kaya_widgets.php:3360
+msgid "Hair Care - Blog"
+msgstr ""
+
+#: ../kaya_widgets.php:3361
+msgid "Use this widget to create blog page."
+msgstr ""
+
+#: ../kaya_widgets.php:3484
+msgid "Enter Blog Category IDs : "
+msgstr ""
+
+#: ../kaya_widgets.php:3508
+msgid "Post Content Limit"
+msgstr ""
+
+#: ../kaya_widgets.php:3516
+msgid "Display Posts Per Page"
+msgstr ""
+
+#: ../kaya_widgets.php:3524
+msgid "Posts Content Color"
+msgstr ""
+
+#: ../kaya_widgets.php:3528
+msgid "Posts Link Color"
+msgstr ""
+
+#: ../kaya_widgets.php:3532
+msgid "Posts Link Hover Color"
+msgstr ""
+
+#: ../kaya_widgets.php:3536
+msgid "Disable Pagination"
+msgstr ""
+
+#: ../kaya_widgets.php:3548
+msgid "Hair Care - Tabular Price"
+msgstr ""
+
+#: ../kaya_widgets.php:3549
+msgid "Add hair salon price in table format."
+msgstr ""
+
+#: ../kaya_widgets.php:3637
+msgid "Menu Items List Box"
+msgstr ""
+
+#: ../kaya_widgets.php:3642
+msgid "Menu Items Font Size"
+msgstr ""
+
+#: ../kaya_widgets.php:3648
+msgid "Background Color"
+msgstr ""
+
+#: ../kaya_widgets.php:3654
+msgid "Text Color"
+msgstr ""
+
+#: ../sendEmail.php:28
+msgid ""
+"We've received your email. We'll be in touch with you as soon as possible!"
+msgstr ""

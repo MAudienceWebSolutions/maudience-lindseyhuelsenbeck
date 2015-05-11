@@ -1,0 +1,124 @@
+.mobile_nav_icon{
+    display: none;
+}
+.toggle_off{
+    display: block!important;
+}
+.nav_wrap{
+z-index:100;
+display: table;
+margin: 30px auto;
+border-radius: 5px;
+}
+.nav_wrap .container{
+    padding: 0px;
+}
+nav select{
+    display:none;
+}
+nav {
+    position: relative;
+    z-index: 2;
+}
+.menu select{   
+    display:none;
+}
+.menu ul li:hover > ul {
+    display: block;
+}
+.menu ul {
+    border-radius: 2px;
+    display: block;
+    list-style: none outside none;
+    position: relative;
+    z-index: 99;
+    margin:0;
+}
+
+.menu > ul  > li {
+    float: left;
+    margin-top: 0;
+    position: relative;
+    margin-right: 2px;
+   }
+
+.menu > ul > li > a {
+    color: #FFFFFF;
+    display: block;
+    padding: 16px 20px;
+    text-decoration: none;
+}
+.menu ul li a .fa{
+    margin-right: 3px;
+}
+.menu ul li a{
+    height: 17px;
+}
+.menu > ul > li > a:last-child {
+    border-right: 0 none;
+}
+.menu ul ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    width:205px;
+    }
+.menu > ul > li > ul {
+    margin-top: 0px;
+    box-shadow: 0px 3px 5px rgba(0,0,0,.2);
+}
+.menu > ul > li > ul:after {
+    background: none repeat scroll 0 0 #ffffff;
+     height: 3px;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+.menu ul ul li {
+    float: none;
+     position: relative;
+     border-bottom:1px solid rgba(127,127, 127, 0.3);
+}
+.menu ul ul li a {
+    background-color: #fff;
+    color: #333;
+    display: block;
+    font-size: 13px;
+    height: 100%;
+    line-height: 20px;
+    padding: 8px 20px;
+    text-align: left;
+}
+.menu ul ul li a:hover {
+    color:#F54325;
+}
+.menu ul ul ul {
+    position: absolute;
+    left: 100%;
+    top:0;
+    width:210px;
+}
+.menu ul > li.main-links:last-child a{
+border-right:0px!important;
+}
+.menu ul li:last-child > a {
+    border-right: 0 none !important;
+}
+.menu ul li:first-child > a {
+    border-left: 0 none !important;
+}
+.menu ul  li ul li:last-child , .menu ul  li ul li ul li:last-child {
+border-bottom:none!important;
+
+}
+.menu > li.current-menu-item > a, .menu > li.current_page_item > a, .menu > ul  > li:hover > a
+{
+}
+.menu .current_page_ancestor  > a, .menu .current-menu-ancestor > a, .menu .current-menu-item  > a{
+color:#ffffff!important;
+
+}
+.menu > li.current-menu-item > a, .menu > li.current_page_item > a, .menu > ul > li:hover > a {
+ 
+
+}
