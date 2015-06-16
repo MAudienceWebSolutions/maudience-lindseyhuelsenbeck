@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-05-01 13:58:25+0000\n"
+"PO-Revision-Date: 2015-05-09 10:15:05+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2753,7 +2753,7 @@ msgstr "Udało się przywrócić wpis."
 
 #: wp-admin/includes/template.php:2173
 msgid "The backup of this post in your browser is different from the version below."
-msgstr "Kopia znajdująca się w twojej przeglądarce różni się od prezentowanej poniżej."
+msgstr "Kopia znajdująca się w przeglądarce różni się od prezentowanej poniżej."
 
 #: wp-admin/includes/ajax-actions.php:1163
 msgid "Draft created on %1$s at %2$s"

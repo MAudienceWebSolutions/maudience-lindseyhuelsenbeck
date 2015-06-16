@@ -2,13 +2,21 @@
 # This file is distributed under the same license as the Twenty Thirteen package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-03-26 16:54:57+0000\n"
+"PO-Revision-Date: 2015-04-27 10:00:40+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: GlotPress/1.0-alpha-1000\n"
 "Project-Id-Version: Twenty Thirteen\n"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentythirteen/"
+msgstr "https://wordpress.org/themes/twentythirteen/"
+
+#. Author URI of the plugin/theme
+msgid "https://wordpress.org/"
+msgstr "https://tw.wordpress.org/"
 
 #. translators: %s: Name of current post
 #: content-aside.php:16 content-audio.php:27 content-chat.php:26
@@ -29,10 +37,6 @@ msgstr "WordPress 「貳零壹參」全面支援文章格式，每種都有獨�
 #: functions.php:233
 msgid "Appears in the footer section of the site."
 msgstr "顯示網站頁尾。"
-
-#. Theme URI of the plugin/theme
-msgid "http://wordpress.org/themes/twentythirteen"
-msgstr "http://wordpress.org/themes/twentythirteen"
 
 #: image.php:38
 msgid "Link to full-size image"
@@ -172,8 +176,6 @@ msgstr "觀看 %s 的全部文章"
 msgid "Tag Archives: %s"
 msgstr "標籤彙整： %s"
 
-#. #-#-#-#-#  twentythirteen.pot (Twenty Thirteen 1.4)  #-#-#-#-#
-#. Author URI of the plugin/theme
 #: footer.php:19
 msgid "http://wordpress.org/"
 msgstr "http://tw.wordpress.org/"
